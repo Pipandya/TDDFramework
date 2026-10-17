@@ -18,6 +18,8 @@ test('TC03_Create_lead_with_mandatory_fields',async({page})=>{
     await leadPage.createLead(td['Lastname'], td['Company']);
     await page.waitForTimeout(2000);
     
-    await homepage.clickLogout();
+    //await homepage.clickLogout();
+
+    await homePage.clickLogout();
 
 });
