@@ -1,0 +1,19 @@
+
+{
+    "TC01": {
+         "username" : "admin1",
+        "password" : "admin1"
+    },
+
+    "TC02":{
+        "username" : "admin",
+        "password": "admin"
+    },
+
+    "TC03":{
+        "username" : "admin",
+        "password" : "admin",
+        "lastname": "Smith",
+        "company":"ABC Crop"
+    }
+}
