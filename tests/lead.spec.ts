@@ -20,6 +20,6 @@ test('TC03_Create_lead_with_mandatory_fields',async({page})=>{
     
     //await homepage.clickLogout();
 
-    await homePage.clickLogout();
+    await homepage.clickLogout();
 
 });
